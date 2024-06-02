@@ -1,0 +1,1 @@
+Rabbit folyamtitkosító implementálása dokumentáció alapján.
